@@ -1,1 +1,1 @@
-# Image-Recognition-Without-CNN
+# Image Recognition Without Deep Learning
